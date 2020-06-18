@@ -3,7 +3,7 @@ This is an implementation of the [Proximal Policy Optimization](https://arxiv.or
 ## Requirements
 
 * Pytorch 1.4
-* The commons game gym environment: <https://github.com/tiagoCuervo/CommonsGame>
+* The Commons Game gym environment: <https://github.com/tiagoCuervo/CommonsGame>
 
 ## Usage
 
