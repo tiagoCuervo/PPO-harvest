@@ -36,7 +36,7 @@ logPeriod = 20
 
 def main():
     trainer = PPOMultiAgentTrainer(env, archSpecs, learningRate=0.002)
-    trainer.train(maxEpisodes, maxEpisodeLength, updatePeriod, logPeriod)
+    trainer.train(maxEpisodes, maxEpisodeLength, logPeriod)
 
 
 if __name__ == '__main__':
